@@ -1,0 +1,5 @@
+# ignore hugo build lock
+.hugo_build.lock
+
+# ignore useless system files
+.DS_Store
