@@ -1,4 +1,4 @@
-baseURL = 'http://ririanc.github.io/'
+baseURL = 'https://ririanc.github.io/'
 DefaultContentLanguage = "en" # Theme's display language, supports: en, fr, zh, zh-hant
 languageCode = "en-us"
 title = "Revri"
