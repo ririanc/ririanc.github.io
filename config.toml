@@ -20,7 +20,9 @@ theme = "diary"
 
 [params]
 subtitle = "拨云见日"
+favicon = "/images/favicon.ico"
 enableGitalk = true
+
 
 # Twitter Card and Open Graph settings
 enableOpenGraph = true
@@ -55,7 +57,8 @@ weight = 3
 url = "/posts"
 name = "Archive"
 weight = 1
-[[menu.main]]
-url = "/index.xml"
-name = "RSS Feed"
-weight = 4
+
+# [[menu.main]]
+# url = "/index.xml"
+# name = "RSS Feed"
+# weight = 4
