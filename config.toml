@@ -2,7 +2,7 @@ baseURL = 'https://ririanc.github.io/'
 DefaultContentLanguage = "en" # Theme's display language, supports: en, fr, zh, zh-hant
 languageCode = "en-us"
 title = "Palomar"
-copyright = "Revri"
+copyright = "Revri. All rights reserved."
 theme = "diary"
 # googleAnalytics = "UA-123-45"
 
