@@ -1,7 +1,7 @@
 ---
-title: "My First Post"
+title: My First Post (Here) 
 date: 2022-06-09T01:54:59+08:00
-description: "搭建好博客后的第一篇日志。"
+description: 搭建好新博客后的第一篇日志。
 draft: false
 comment: false
 ---
